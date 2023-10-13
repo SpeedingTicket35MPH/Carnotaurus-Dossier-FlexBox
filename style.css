@@ -1,0 +1,17 @@
+.flex-container{
+    display:flex;
+    flex-flow: row wrap;
+    justify-content:space-between;
+    /* align-items: stretch ;
+    align-content:stretch; */
+}
+
+.flex-container > section {
+    width: 30%;
+}
+
+
+section{
+    width: 50%;
+}
+    
